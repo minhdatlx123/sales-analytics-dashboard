@@ -17,7 +17,6 @@ Sử dụng 5 bảng chính:
 - Order Payments
 - Order Items
 - Products
-
 # Key Insights
 ## 1. Monthly Revenue Trend
 -Revenue đạt mức cao nhất vào khoảng tháng 8 và sau đó giảm mạnh ở tháng 9.
