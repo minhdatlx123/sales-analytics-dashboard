@@ -27,15 +27,15 @@ Sử dụng 5 bảng chính:
 
 - Các nhóm nổi bật gồm:
 
- #### Beauty & Health
+ -Beauty & Health
  
- #### Watches & Gifts
+ -Watches & Gifts
  
- #### Home & Living
+ -Home & Living
  
 - Điều này cho thấy doanh thu tập trung nhiều vào một số nhóm sản phẩm chính.
 ## 3. Revenue by Payment Type
--Credit Card là phương thức thanh toán chiếm tỷ trọng lớn nhất trong tổng doanh thu.
+- Credit Card là phương thức thanh toán chiếm tỷ trọng lớn nhất trong tổng doanh thu.
 
 - Điều này cho thấy phần lớn khách hàng thường ưu tiên thanh toán bằng thẻ.
 ## 4. Revenue by State
