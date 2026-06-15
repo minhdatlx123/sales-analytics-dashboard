@@ -27,11 +27,11 @@ Sử dụng 5 bảng chính:
 
 - Các nhóm nổi bật gồm:
 
- -Beauty & Health
+  - Beauty & Health
  
- -Watches & Gifts
+  - Watches & Gifts
  
- -Home & Living
+  - Home & Living
  
 - Điều này cho thấy doanh thu tập trung nhiều vào một số nhóm sản phẩm chính.
 ## 3. Revenue by Payment Type
