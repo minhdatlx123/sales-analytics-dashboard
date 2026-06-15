@@ -23,9 +23,9 @@ Sử dụng 5 bảng chính:
 
 -Điều này cho thấy doanh thu có biến động rõ theo thời gian và cần phân tích thêm để tìm ra nguyên nhân doanh thu bị giảm.
 ## 2. Top Product Categories
--Một số Product Categories đóng góp doanh thu cao hơn các nhóm còn lại.
+- Một số Product Categories đóng góp doanh thu cao hơn các nhóm còn lại.
 
--Các nhóm nổi bật gồm:
+- Các nhóm nổi bật gồm:
 
  #### Beauty & Health
  
@@ -33,14 +33,14 @@ Sử dụng 5 bảng chính:
  
  #### Home & Living
  
--Điều này cho thấy doanh thu tập trung nhiều vào một số nhóm sản phẩm chính.
+- Điều này cho thấy doanh thu tập trung nhiều vào một số nhóm sản phẩm chính.
 ## 3. Revenue by Payment Type
 -Credit Card là phương thức thanh toán chiếm tỷ trọng lớn nhất trong tổng doanh thu.
 
--Điều này cho thấy phần lớn khách hàng thường ưu tiên thanh toán bằng thẻ.
+- Điều này cho thấy phần lớn khách hàng thường ưu tiên thanh toán bằng thẻ.
 ## 4. Revenue by State
--Sao Paulo (SP) là bang có doanh thu cao nhất khoảng 6M, vượt xa các bang còn lại.
+- Sao Paulo (SP) là bang có doanh thu cao nhất khoảng 6M, vượt xa các bang còn lại.
 
--Rio de Janeiro (RJ) đứng thứ 2 với hơn 2M, tiếp theo là Minas Gerais (MG) với gần 2M.
+- Rio de Janeiro (RJ) đứng thứ 2 với hơn 2M, tiếp theo là Minas Gerais (MG) với gần 2M.
 
--Điều này doanh thu tập trung chủ yếu ở các bang lớn, đặc biệt SP là bang đóng góp doanh thu lớn nhất.
+- Điều này cho thấy doanh thu tập trung chủ yếu ở các bang lớn, đặc biệt SP là bang đóng góp doanh thu lớn nhất.
