@@ -19,9 +19,9 @@ Sử dụng 5 bảng chính:
 - Products
 # Key Insights
 ## 1. Monthly Revenue Trend
--Revenue đạt mức cao nhất vào khoảng tháng 8 và sau đó giảm mạnh ở tháng 9.
+- Revenue đạt mức cao nhất vào khoảng tháng 8 và sau đó giảm mạnh ở tháng 9.
 
--Điều này cho thấy doanh thu có biến động rõ theo thời gian và cần phân tích thêm để tìm ra nguyên nhân doanh thu bị giảm.
+- Điều này cho thấy doanh thu có biến động rõ theo thời gian và cần phân tích thêm để tìm ra nguyên nhân doanh thu bị giảm.
 ## 2. Top Product Categories
 - Một số Product Categories đóng góp doanh thu cao hơn các nhóm còn lại.
 
