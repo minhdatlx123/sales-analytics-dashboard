@@ -1,8 +1,7 @@
 # Sales Analytics Dashboard
 ![Sales Analytics Dashboard](dashboard/analytic_dashboard.jpg)
-Dự án sử dụng dữ liệu Olist E-commerce để phân tích bán hàng và xây dựng dashboard trực quan hóa dữ liệu bằng Power BI.
-
-Dashboard tập trung vào 4 KPI chính:
+This project uses the Olist E-commerce dataset to analyze sales performance and build an interactive data visualization dashboard with Power BI.
+The dashboard focuses on 4 main KPIs:
 - Revenue
 - Orders
 - Customers
@@ -11,7 +10,7 @@ Dashboard tập trung vào 4 KPI chính:
 - PostgreSQL
 - Power BI
 ## Dataset
-Sử dụng 5 bảng chính:
+The analysis uses 5 main tables:
 - Customers
 - Orders
 - Order Payments
@@ -19,13 +18,13 @@ Sử dụng 5 bảng chính:
 - Products
 # Key Insights
 ## 1. Monthly Revenue Trend
-- Revenue đạt mức cao nhất vào khoảng tháng 8 và sau đó giảm mạnh ở tháng 9.
+- Revenue reached its highest point around August and then dropped sharply in September.
 
-- Điều này cho thấy doanh thu có biến động rõ theo thời gian và cần phân tích thêm để tìm ra nguyên nhân doanh thu bị giảm.
+- This shows that revenue changed significantly over time and needs further analysis to understand the reason behind the decline.
 ## 2. Top Product Categories
-- Một số Product Categories đóng góp doanh thu cao hơn các nhóm còn lại.
+- Some product categories contributed much higher revenue than others.
 
-- Các nhóm nổi bật gồm:
+- The top-performing categories include:
 
   - Beauty & Health
  
@@ -33,14 +32,14 @@ Sử dụng 5 bảng chính:
  
   - Home & Living
  
-- Điều này cho thấy doanh thu tập trung nhiều vào một số nhóm sản phẩm chính.
+- This shows that revenue was mainly concentrated in several key product categories
 ## 3. Revenue by Payment Type
-- Credit Card là phương thức thanh toán chiếm tỷ trọng lớn nhất trong tổng doanh thu.
+- Credit card was the payment method with the highest share of total revenue.
 
-- Điều này cho thấy phần lớn khách hàng thường ưu tiên thanh toán bằng thẻ.
+- This suggests that most customers preferred paying by credit card.
 ## 4. Revenue by State
-- Sao Paulo (SP) là bang có doanh thu cao nhất khoảng 6M, vượt xa các bang còn lại.
+- Sao Paulo (SP) had the highest revenue at around 6M, far ahead of other states.
 
-- Rio de Janeiro (RJ) đứng thứ 2 với hơn 2M, tiếp theo là Minas Gerais (MG) với gần 2M.
+- Rio de Janeiro (RJ) ranked second with more than 2M, followed by Minas Gerais (MG) with nearly 2M.
 
-- Điều này cho thấy doanh thu tập trung chủ yếu ở các bang lớn, đặc biệt SP là bang đóng góp doanh thu lớn nhất.
+- This shows that revenue was mainly concentrated in large states, especially SP, which was the biggest revenue contributor.
