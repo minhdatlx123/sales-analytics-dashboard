@@ -1,6 +1,7 @@
 # Sales Analytics Dashboard
 ![Sales Analytics Dashboard](dashboard/analytic_dashboard.jpg)
 This project uses the Olist E-commerce dataset to analyze sales performance and build an interactive data visualization dashboard with Power BI.
+
 The dashboard focuses on 4 main KPIs:
 - Revenue
 - Orders
